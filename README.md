@@ -1,5 +1,3 @@
-# README: Summarizing Statistical Data Exercise
-
 ## Overview
 This exercise involves summarizing and visualizing statistical data from a representative sample of 200 consumers at a petrol filling station. The data details the number of litres of petrol purchased by customers. The tasks include creating a pie chart, histogram, and frequency polygon to represent the data visually.
 
